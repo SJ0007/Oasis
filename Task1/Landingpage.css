@@ -1,0 +1,260 @@
+*
+{
+    margin:0;
+    padding:0;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+
+
+}
+
+
+.head
+{
+    height: 910px;
+    width:100%;
+    background-image: url("logo_web.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 2%;
+    box-shadow: 0 3px  #2a2a2a;
+}
+
+  
+.nav
+{
+    background-color: rgba(24, 18, 18, 0.486);
+    height:80px;
+    width:100%;
+}
+
+.lang
+{
+    cursor: pointer;
+    color:seashell;
+    margin-top:-45px;
+    margin-left:70%;
+}
+
+.h1
+{
+    font-size: 45px;
+    margin-top: 55%;
+    
+}
+
+.h4
+{
+    font-size: 35px;
+    
+}
+
+.h6
+{
+    font-size:13px;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.btn
+{
+    width: 150px;
+    margin-top: 2%;
+    color:#fff;
+    background-color: teal;
+    border-radius:15px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+  
+}
+
+.btn:hover
+{
+    margin-top:2%;
+    width: 150px;
+    margin-left:3%;
+    color:#fff;
+    background-color: rgb(89, 192, 192);
+    border-radius:15px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+}
+
+.elements
+{
+    margin-top: 13%;
+
+}
+
+.card
+{
+    background-color: rgba(248, 242, 242, 0.918);
+    height:410px;
+    width:100%;
+    transition:ease-in;
+    padding-bottom: 4%;
+}
+
+.split {
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+    justify-content: center;
+  }  
+
+  .spacing>*+* {
+    margin-top: var(--spacer, 2rem)
+  }
+
+
+.btn2
+{
+    margin-top:2%;
+    width: 190px;
+    margin-left:10%;
+    color:#fff;
+    background-color: teal;
+    border-radius:20px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+}
+.btn2:hover
+{
+    margin-top:2%;
+    width: 190px;
+    margin-left:10%;
+    color:#fff;
+    background-color: rgb(79, 211, 211);
+    border-radius:20px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+}
+
+
+.btn3
+{ 
+    margin-top:2%;
+    width: 190px;
+    margin-left:30%;
+    color:#fff;
+    background-color: teal;
+    border-radius:20px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+}
+.btn3:hover
+{
+    margin-top:2%;
+    width: 190px;
+    margin-left:30%;
+    color:#fff;
+    background-color: rgb(55, 194, 194);
+    border-radius:20px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+}
+
+.btn4
+{
+    margin-top:2%;
+    width: 190px;
+    margin-left:10%;
+    color:#fff;
+    background-color: teal;
+    border-radius:20px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+}
+.btn4:hover
+{
+    margin-top:2%;
+    width: 190px;
+    margin-left:10%;
+    color:#fff;
+    background-color: rgb(78, 190, 190);
+    border-radius:20px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+}
+
+  .btn5
+{
+    margin-top:2%;
+    width: 190px;
+    margin-left:10%;
+    color:#fff;
+    background-color: teal;
+    border-radius:20px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+}
+.btn5:hover
+{
+    margin-top:2%;
+    width: 190px;
+    margin-left:10%;
+    color:#fff;
+    background-color: rgb(78, 190, 190);
+    border-radius:20px;
+    border:none;
+    padding:10px;
+    cursor: pointer;
+}
+
+.card1
+{
+    margin-left:10%;
+    display: flex;
+    float:left;
+    width:23%;
+    height:100%;
+}
+
+.card2 h1{
+    margin-left:10%;
+    margin-top:20%;
+    font-size:30px;
+    width:40%;
+    display:block;
+}
+
+.card2 p{
+    margin-left:10%;
+    margin-top:2%;
+    font-size:20px;
+    display:block;
+}
+
+.card3
+{
+    display: flex;
+    float:left;
+    width:33%;
+    height:100%;
+}
+
+
+.card4 h1{
+    margin-left:10%;
+    margin-top:40%;
+    font-size:30px;
+    width:40%;
+    display:block;
+}
+
+.card4 p{
+    margin-left:10%;
+    margin-top:2%;
+    font-size:20px;
+    display:block;
+}
